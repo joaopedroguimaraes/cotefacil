@@ -1,0 +1,7 @@
+Na Amazon Web Services (AWS), Virtual Private Networks (VPNs), Subnets e Security Groups são todos componentes importantes da infraestrutura de serviços em nuvem que permitem a criação de uma rede virtual privada segura e isolada.
+
+Uma VPN é uma conexão criptografada entre duas redes, permitindo que o tráfego de rede seja transferido com segurança pela Internet pública. Na AWS, uma VPN pode ser usada para conectar sua rede local à nuvem, permitindo o acesso seguro a recursos hospedados na AWS. Isso pode ser feito usando o Amazon Virtual Private Cloud (VPC), que é um serviço que permite a criação de uma rede virtual privada na nuvem AWS.
+
+Dentro de um VPC, é possível criar sub-redes (Subnets), que são partições lógicas da rede que permitem a segmentação de recursos em grupos lógicos. Cada Subnet é identificada por um bloco de endereços IP exclusivo e está localizada em uma zona de disponibilidade diferente. As sub-redes podem ser usadas para separar recursos em diferentes níveis de segurança ou para distribuir a carga em diferentes instâncias.
+
+Por fim, Security Groups são conjuntos de regras de segurança que controlam o tráfego de entrada e saída de instâncias em uma Subnet. Cada instância pode ser associada a um ou mais Security Groups, que especificam quais protocolos, portas e endereços IP são permitidos ou negados para acesso à instância. Os Security Groups permitem um controle granular do tráfego de rede em uma rede VPC, garantindo a segurança dos recursos hospedados na nuvem AWS.
