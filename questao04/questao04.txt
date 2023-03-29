@@ -1,0 +1,17 @@
+==== DADOS DE ACESSO ====
+HOST
+52.200.142.116
+
+USUÁRIO
+ctflteste
+
+SENHA
+YdrTXPK#mcG7KUT#H@$P
+
+== ARQUIVO ENCONTRADO ===
+
+ARQUIVOS
+Great Job.txt
+
+CONTEÚDO
+Your server is not safe, try for new password ideas in next time.ldoebaot.h
